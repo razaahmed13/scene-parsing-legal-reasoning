@@ -1,0 +1,49 @@
+[
+    {"frame_id": "frame_001", "timestamp": "2024-01-15T08:42:11Z", "image": "0000f77c-6257be58.jpg", "detections": [
+      {"class_label": "car", "confidence": 0.87, "bbox": [45, 254, 357, 487]},
+      {"class_label": "traffic light", "confidence": 0.92, "bbox": [1125, 133, 1156, 210]}
+    ]},
+    {"frame_id": "frame_002", "timestamp": "2024-01-15T08:42:12Z", "image": "0001f77c-1234ab56.jpg", "detections": [
+      {"class_label": "person", "confidence": 0.78, "bbox": [200, 150, 280, 400]},
+      {"class_label": "car", "confidence": 0.91, "bbox": [500, 200, 900, 450]},
+      {"class_label": "traffic light", "confidence": 0.55, "bbox": [300, 100, 340, 180]}
+    ]},
+    {"frame_id": "frame_003", "timestamp": "2024-01-15T08:42:13Z", "image": "0002f77c-5678cd90.jpg", "detections": [
+      {"class_label": "truck", "confidence": 0.83, "bbox": [100, 200, 600, 500]},
+      {"class_label": "person", "confidence": 0.64, "bbox": [700, 300, 750, 450]}
+    ]},
+    {"frame_id": "frame_004", "timestamp": "2024-01-15T08:42:14Z", "image": "0003f77c-9012ef34.jpg", "detections": [
+      {"class_label": "bus", "confidence": 0.89, "bbox": [50, 100, 400, 400]},
+      {"class_label": "rider", "confidence": 0.61, "bbox": [800, 250, 860, 400]},
+      {"class_label": "motor", "confidence": 0.72, "bbox": [780, 260, 850, 410]}
+    ]},
+    {"frame_id": "frame_005", "timestamp": "2024-01-15T08:42:15Z", "image": "0004f77c-3456gh78.jpg", "detections": [
+      {"class_label": "car", "confidence": 0.95, "bbox": [300, 200, 700, 480]},
+      {"class_label": "traffic sign", "confidence": 0.88, "bbox": [900, 100, 960, 160]},
+      {"class_label": "bike", "confidence": 0.53, "bbox": [150, 300, 200, 420]}
+    ]},
+    {"frame_id": "frame_006", "timestamp": "2024-01-15T08:42:16Z", "image": "0005f77c-7890ij12.jpg", "detections": [
+      {"class_label": "car", "confidence": 0.76, "bbox": [400, 250, 800, 500]},
+      {"class_label": "person", "confidence": 0.45, "bbox": [100, 200, 150, 380]}
+    ]},
+    {"frame_id": "frame_007", "timestamp": "2024-01-15T08:42:17Z", "image": "0006f77c-2345kl34.jpg", "detections": [
+      {"class_label": "truck", "confidence": 0.91, "bbox": [200, 150, 700, 480]},
+      {"class_label": "traffic light", "confidence": 0.67, "bbox": [600, 80, 640, 150]},
+      {"class_label": "car", "confidence": 0.82, "bbox": [900, 300, 1200, 500]}
+    ]},
+    {"frame_id": "frame_008", "timestamp": "2024-01-15T08:42:18Z", "image": "0007f77c-6789mn56.jpg", "detections": [
+      {"class_label": "bus", "confidence": 0.94, "bbox": [100, 100, 500, 450]},
+      {"class_label": "person", "confidence": 0.71, "bbox": [600, 200, 660, 400]},
+      {"class_label": "bike", "confidence": 0.62, "bbox": [700, 300, 760, 420]}
+    ]},
+    {"frame_id": "frame_009", "timestamp": "2024-01-15T08:42:19Z", "image": "0008f77c-0123op78.jpg", "detections": [
+      {"class_label": "motor", "confidence": 0.77, "bbox": [300, 250, 400, 400]},
+      {"class_label": "rider", "confidence": 0.69, "bbox": [290, 200, 410, 380]},
+      {"class_label": "traffic sign", "confidence": 0.85, "bbox": [1000, 150, 1060, 200]}
+    ]},
+    {"frame_id": "frame_010", "timestamp": "2024-01-15T08:42:20Z", "image": "0009f77c-4567qr90.jpg", "detections": [
+      {"class_label": "car", "confidence": 0.93, "bbox": [200, 200, 600, 480]},
+      {"class_label": "person", "confidence": 0.81, "bbox": [700, 150, 760, 380]},
+      {"class_label": "traffic light", "confidence": 0.74, "bbox": [400, 80, 440, 160]}
+    ]}
+  ]

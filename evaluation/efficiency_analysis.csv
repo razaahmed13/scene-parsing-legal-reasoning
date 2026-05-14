@@ -1,0 +1,2 @@
+Embedding Time per Chunk (ms),FAISS Query Time per Violation (ms),LLM Inference Time per Report (s),Total Pipeline Latency (s),Throughput (reports/min),RAM Delta during Inference (MB)
+18.23,0.052,33.47,33.5,1.79,-0.05

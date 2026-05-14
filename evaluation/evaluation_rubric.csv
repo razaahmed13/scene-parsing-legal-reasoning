@@ -1,0 +1,11 @@
+report_id,R1_Fluency,R2_Fluency,Avg_Fluency,R1_Legal Accuracy,R2_Legal Accuracy,Avg_Legal Accuracy,R1_Completeness,R2_Completeness,Avg_Completeness,R1_Coherence,R2_Coherence,Avg_Coherence,R1_Actionability,R2_Actionability,Avg_Actionability,Report_Avg,violation_id
+R1,4,4,4.0,4,3,3.5,4,4,4.0,4,4,4.0,4,4,4.0,3.9,VIO-FRAME_001
+R2,4,4,4.0,4,4,4.0,3,3,3.0,4,3,3.5,3,3,3.0,3.5,VIO-FRAME_003
+R3,3,3,3.0,3,3,3.0,3,3,3.0,3,3,3.0,3,2,2.5,2.9,VIO-FRAME_004
+R4,4,4,4.0,4,4,4.0,4,4,4.0,4,4,4.0,4,3,3.5,3.9,VIO-FRAME_005
+R5,3,3,3.0,3,3,3.0,3,3,3.0,3,3,3.0,3,3,3.0,3.0,VIO-FRAME_007
+R6,4,3,3.5,3,3,3.0,4,4,4.0,3,3,3.0,3,3,3.0,3.3,VIO-FRAME_008
+R7,4,4,4.0,4,4,4.0,4,4,4.0,4,3,3.5,4,4,4.0,3.9,VIO-FRAME_009
+R8,3,3,3.0,3,3,3.0,3,3,3.0,3,3,3.0,3,3,3.0,3.0,VIO-FRAME_010
+R9,4,4,4.0,4,4,4.0,4,4,4.0,4,4,4.0,4,3,3.5,3.9,N/A
+R10,3,3,3.0,3,3,3.0,3,3,3.0,3,3,3.0,3,3,3.0,3.0,N/A

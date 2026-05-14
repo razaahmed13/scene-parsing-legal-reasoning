@@ -1,0 +1,19 @@
+# Part 1
+ultralytics
+transformers
+torch
+torchvision
+albumentations
+Pillow
+pandas
+numpy
+matplotlib
+seaborn
+
+# Part 2
+faiss-cpu
+sentence-transformers
+langchain
+langgraph
+requests
+PyPDF2

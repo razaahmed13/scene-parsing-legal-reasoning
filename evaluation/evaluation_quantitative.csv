@@ -1,0 +1,2 @@
+Recall@3,Recall@5,Recall@10,Report Completeness,Avg Latency (s),Throughput (rpm)
+0.65,0.75,0.85,1.0,33.5,1.79
