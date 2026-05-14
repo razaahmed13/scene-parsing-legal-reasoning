@@ -20,22 +20,22 @@ This project builds an end-to-end intelligent traffic monitoring system in two p
 
 DLP_Project/
 ├── Part1/
-│   ├── Object Detection with YOLOv11.ipynb
-│   └── Semantic Segmentation with SegFormer.ipynb
+│   ├── object_detection_with_YOLOv11.ipynb
+│   └── semantic_segmentation_with_SegFormer.ipynb
 ├── Part2/
-│   ├── Agentic RAG Based Legal Reasoning for Traffic Safety.ipynb
+│   ├── agentic_RAG_based_legal_reasoning.ipynb
 │   ├── detection_logs.json
 │   └── law_documents/
 │       └── pakistan_traffic_laws.txt
 ├── rag/
 │   ├── law_index.faiss
 │   ├── law_metadata.csv
-│   └── citation_reports.json
 ├── evaluation/
 │   ├── evaluation_rubric.csv
-│   └── evaluation_quantitative.csv
+│   ├── evaluation_quantitative.csv
+│   └── efficiency_analysis.csv
 ├── report/
-│   └── report.tex
+│   └── report.pdf
 ├── requirements.txt
 └── README.md
 
@@ -134,7 +134,7 @@ DLP_Project/
 
 > Runs on **Kaggle** (GPU required)
 
-1. Upload `Part1/Object Detection with YOLOv11.ipynb` to Kaggle
+1. Upload `urban_scene_parsing/object_detection_with_YOLOv11.ipynb` to Kaggle
 2. Add dataset: search `solesensei/solesensei_bdd100k` in Kaggle datasets
 3. Enable GPU: **Settings → Accelerator → T4 GPU**
 4. Run all cells top to bottom
@@ -144,7 +144,7 @@ DLP_Project/
 
 > Runs on **Kaggle** (GPU required)
 
-1. Upload `Part1/Semantic Segmentation with SegFormer.ipynb` to Kaggle
+1. Upload `urban_scene_parsing/semantic_segmentation_with_SegFormer.ipynb` to Kaggle
 2. Add the same BDD100K dataset
 3. Enable GPU: **Settings → Accelerator → T4 GPU**
 4. Run all cells top to bottom
@@ -163,7 +163,7 @@ DLP_Project/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/DLP_Project.git
+git clone https://github.com/yourusername/scene-parsing-legal-reasoning.git
 cd DLP_Project
 
 # 2. Install dependencies
@@ -180,7 +180,7 @@ ollama serve
 # - pakistan_traffic_laws.txt → Part2/law_documents/
 
 # 6. Launch Jupyter and open the notebook
-jupyter notebook "Part2/Agentic RAG Based Legal Reasoning for Traffic Safety.ipynb"
+jupyter notebook "legal_reasoning/agentic_RAG_based_legal_reasoning.ipynb"
 ```
 
 Run all cells top to bottom. The notebook is self-contained and runs
